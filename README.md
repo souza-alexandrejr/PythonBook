@@ -1,6 +1,7 @@
-# beginnerspython3
-Code repo for the Beginners Guide to Python 3 Programming
+# Python Book
 
-Each chapter is represented by a separate directory within the repo.
+Code repository for the "Beginners Guide to Python 3 Programming" Book
 
-Chapters with exercieses have a sub directory containing sample solutions for the exerices in that chapter.
+Each chapter is represented by a separate directory within the repository.
+
+Chapters with exercises have a sub directory containing sample solutions for the exercises in that chapter.
